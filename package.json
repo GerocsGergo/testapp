@@ -1,0 +1,23 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "this is a test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerocsGergo/testapp.git"
+  },
+  "keywords": [
+    "c#",
+    "node.js"
+  ],
+  "author": "gerocsgergo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GerocsGergo/testapp/issues"
+  },
+  "homepage": "https://github.com/GerocsGergo/testapp#readme"
+}
